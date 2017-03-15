@@ -2,7 +2,7 @@
 
 Curso sobre Software Libre para UGR Ceuta
 
-Impartido por Manuel Cogolludo Vallejo y Ángel Pablo Hinojosa Gutiérrez.
+Impartido por [Manu Cogolludo Vallejo](https://github.com/Makova) y [Ángel Pablo Hinojosa Gutiérrez](https://github.com/psicobyte).
 
 Esquema de contenidos:
 
